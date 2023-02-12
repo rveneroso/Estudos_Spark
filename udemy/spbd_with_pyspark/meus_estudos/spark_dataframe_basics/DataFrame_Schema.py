@@ -1,4 +1,3 @@
-import pyspark
 from pyspark.sql.types import StructField,StringType,IntegerType,StructType
 from pyspark.sql import SparkSession
 
