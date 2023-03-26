@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/spark_for_ml_tree_methods.iml" filepath="$PROJECT_DIR$/.idea/spark_for_ml_tree_methods.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/spark_for_ml_k_means_clustering.iml" filepath="$PROJECT_DIR$/.idea/spark_for_ml_k_means_clustering.iml" />
     </modules>
   </component>
 </project>
